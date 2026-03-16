@@ -1,4 +1,4 @@
-# RevPay Microservices Monorepo
+# RevPay Microservices
 Spring Cloud microservices (Java 17) + Angular 16 SPA for RevPay. This README links the two halves so you can build, run, and debug quickly.
 
 ## What Is RevPay?
